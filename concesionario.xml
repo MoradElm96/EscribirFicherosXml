@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<concesionario>
+    <coches>
+        <coche id="1">
+            <matricula>2020ABC</matricula>
+            <marca>Audi</marca>
+            <precio>2000</precio>
+        </coche>
+    </coches>
+    <coches>
+        <coche id="2">
+            <matricula>2020ABC</matricula>
+            <marca>Audi</marca>
+            <precio>2000</precio>
+        </coche>
+    </coches>
+    <coches>
+        <coche id="3">
+            <matricula>2020ABC</matricula>
+            <marca>Audi</marca>
+            <precio>2000</precio>
+        </coche>
+    </coches>
+</concesionario>
